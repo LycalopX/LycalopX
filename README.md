@@ -1,3 +1,7 @@
-I doubt people barely read these, but either way
-I program in javascript and have a pretty old bot on discord.js V12
-I am learning some other programing languages tho, like python, so I will probably upload loads of other stuff here too
+Hello, I'm Alex Weber 💻
+
+🌒 Undergradute student of Computer Engeneering @ University of Sao Paulo - EESC & ICMC
+🔭 Honing my skills on: JavaScript backend development (Node.js), Java / C standalone programs
+📫 How to reach me: brennerweber@usp.br
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LycalopX&show_icons=true&theme=radical)
