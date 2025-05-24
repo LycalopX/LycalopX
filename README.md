@@ -1,10 +1,10 @@
 ## Hello, I'm Alex 💻
 
-🌒 Undergradute student of Computer Engeneering @ University of Sao Paulo - EESC & ICMC
+🌒 Undergraduate student in Computer Engineering @ University of São Paulo – EESC & ICMC
 
-🔭 Honing my skills on: JavaScript backend development (Node.js), Java / C standalone programs
+🔭 Currently honing my skills in: **JavaScript backend development (Node.js)**, and **Java/C standalone applications**
 
-📫 How to reach me: lycalopx@gmail.com
+📫 Reach me at: lycalopx@gmail.com
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LycalopX&show_icons=true&theme=radical" height="165"/>
