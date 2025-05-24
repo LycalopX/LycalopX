@@ -7,3 +7,4 @@
 📫 How to reach me: lycalopx@gmail.com
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LycalopX&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lycalopx&layout=compact)
