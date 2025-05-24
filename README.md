@@ -1,6 +1,7 @@
-Hello, I'm Alex Weber 💻
+## Hello, I'm Alex Weber 💻
 
 🌒 Undergradute student of Computer Engeneering @ University of Sao Paulo - EESC & ICMC
+
 🔭 Honing my skills on: JavaScript backend development (Node.js), Java / C standalone programs
 
 📫 How to reach me: brennerweber@usp.br
